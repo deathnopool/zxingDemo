@@ -1,4 +1,0 @@
-#Thu Jun 22 15:24:46 CST 2017
-base.0=D\:\\workspace\\zxingDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\core-3.3.0_cc78645cc765be5ee4399397a45d34427a2d75ef
-renamed.0=classes.dex
-file.0=D\:\\workspace\\zxingDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\core-3.3.0_cc78645cc765be5ee4399397a45d34427a2d75ef\\classes.dex

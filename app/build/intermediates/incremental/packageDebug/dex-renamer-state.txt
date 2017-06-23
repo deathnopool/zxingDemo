@@ -1,7 +1,0 @@
-#Fri Jun 23 11:32:23 CST 2017
-base.0=D\:\\workspace\\zxingDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f3fd4ba0d4fbd022c612ee2ec9cfb5369ab9dd96
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=D\:\\workspace\\zxingDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1fa7821a48e198b03e07a2201dc00e19d5665cba\\classes.dex
-base.1=D\:\\workspace\\zxingDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_1fa7821a48e198b03e07a2201dc00e19d5665cba
-file.0=D\:\\workspace\\zxingDemo\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_f3fd4ba0d4fbd022c612ee2ec9cfb5369ab9dd96\\classes.dex
