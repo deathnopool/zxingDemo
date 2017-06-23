@@ -1,0 +1,2382 @@
+[
+    {
+        "outputFile": "D:\\workspace\\zxingDemo\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-nl\\values-nl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 52,
+                    "endOffset": 103
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 633,
+                        "endColumn": 52,
+                        "endOffset": 681
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 108,
+                    "endColumn": 55,
+                    "endOffset": 159
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 686,
+                        "endColumn": 55,
+                        "endOffset": 737
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 164,
+                    "endColumn": 60,
+                    "endOffset": 220
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 742,
+                        "endColumn": 60,
+                        "endOffset": 798
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 225,
+                    "endColumn": 68,
+                    "endOffset": 289
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 803,
+                        "endColumn": 68,
+                        "endOffset": 867
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 294,
+                    "endColumn": 70,
+                    "endOffset": 360
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 872,
+                        "endColumn": 70,
+                        "endOffset": 938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 365,
+                    "endColumn": 60,
+                    "endOffset": 421
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 943,
+                        "endColumn": 60,
+                        "endOffset": 999
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 426,
+                    "endColumn": 51,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1004,
+                        "endColumn": 51,
+                        "endOffset": 1051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 73,
+                    "endOffset": 547
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1056,
+                        "endColumn": 73,
+                        "endOffset": 1125
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 552,
+                    "endColumn": 53,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1130,
+                        "endColumn": 53,
+                        "endOffset": 1179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 57,
+                    "endOffset": 659
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1184,
+                        "endColumn": 57,
+                        "endOffset": 1237
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 664,
+                    "endColumn": 76,
+                    "endOffset": 736
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1242,
+                        "endColumn": 76,
+                        "endOffset": 1314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 741,
+                    "endColumn": 52,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1319,
+                        "endColumn": 52,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endColumn": 40,
+                    "endOffset": 830
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1372,
+                        "endColumn": 40,
+                        "endOffset": 1408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 835,
+                    "endColumn": 62,
+                    "endOffset": 893
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1413,
+                        "endColumn": 62,
+                        "endOffset": 1471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 898,
+                    "endColumn": 66,
+                    "endOffset": 960
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1476,
+                        "endColumn": 66,
+                        "endOffset": 1538
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 965,
+                    "endColumn": 73,
+                    "endOffset": 1034
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1543,
+                        "endColumn": 73,
+                        "endOffset": 1612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1039,
+                    "endColumn": 55,
+                    "endOffset": 1090
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 1617,
+                        "endColumn": 55,
+                        "endOffset": 1668
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1095,
+                    "endColumn": 60,
+                    "endOffset": 1151
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 4,
+                        "startOffset": 1673,
+                        "endColumn": 60,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1156,
+                    "endColumn": 66,
+                    "endOffset": 1218
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 4,
+                        "startOffset": 1734,
+                        "endColumn": 66,
+                        "endOffset": 1796
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1223,
+                    "endColumn": 61,
+                    "endOffset": 1280
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 1801,
+                        "endColumn": 61,
+                        "endOffset": 1858
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1285,
+                    "endColumn": 59,
+                    "endOffset": 1340
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1863,
+                        "endColumn": 59,
+                        "endOffset": 1918
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1345,
+                    "endColumn": 56,
+                    "endOffset": 1397
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1923,
+                        "endColumn": 56,
+                        "endOffset": 1975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1402,
+                    "endColumn": 59,
+                    "endOffset": 1457
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1980,
+                        "endColumn": 59,
+                        "endOffset": 2035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1462,
+                    "endColumn": 52,
+                    "endOffset": 1510
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2040,
+                        "endColumn": 52,
+                        "endOffset": 2088
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1515,
+                    "endColumn": 64,
+                    "endOffset": 1575
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 2093,
+                        "endColumn": 64,
+                        "endOffset": 2153
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1580,
+                    "endColumn": 61,
+                    "endOffset": 1637
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 4,
+                        "startOffset": 2158,
+                        "endColumn": 61,
+                        "endOffset": 2215
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 1642,
+                    "endColumn": 62,
+                    "endOffset": 1700
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 4,
+                        "startOffset": 2220,
+                        "endColumn": 62,
+                        "endOffset": 2278
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 1705,
+                    "endColumn": 54,
+                    "endOffset": 1755
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 2283,
+                        "endColumn": 54,
+                        "endOffset": 2333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 1760,
+                    "endColumn": 70,
+                    "endOffset": 1826
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 4,
+                        "startOffset": 2338,
+                        "endColumn": 70,
+                        "endOffset": 2404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 1831,
+                    "endColumn": 57,
+                    "endOffset": 1884
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 2409,
+                        "endColumn": 57,
+                        "endOffset": 2462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 1889,
+                    "endColumn": 50,
+                    "endOffset": 1935
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 2467,
+                        "endColumn": 50,
+                        "endOffset": 2513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 1940,
+                    "endColumn": 54,
+                    "endOffset": 1990
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 2518,
+                        "endColumn": 54,
+                        "endOffset": 2568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1995,
+                    "endColumn": 65,
+                    "endOffset": 2056
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 4,
+                        "startOffset": 2573,
+                        "endColumn": 65,
+                        "endOffset": 2634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2061,
+                    "endColumn": 66,
+                    "endOffset": 2123
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 4,
+                        "startOffset": 2639,
+                        "endColumn": 66,
+                        "endOffset": 2701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2128,
+                    "endColumn": 76,
+                    "endOffset": 2200
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 4,
+                        "startOffset": 2706,
+                        "endColumn": 76,
+                        "endOffset": 2778
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2205,
+                    "endColumn": 46,
+                    "endOffset": 2247
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 2783,
+                        "endColumn": 46,
+                        "endOffset": 2825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2252,
+                    "endColumn": 78,
+                    "endOffset": 2326
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 4,
+                        "startOffset": 2830,
+                        "endColumn": 78,
+                        "endOffset": 2904
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2331,
+                    "endColumn": 63,
+                    "endOffset": 2390
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 4,
+                        "startOffset": 2909,
+                        "endColumn": 63,
+                        "endOffset": 2968
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2395,
+                    "endColumn": 54,
+                    "endOffset": 2445
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 2973,
+                        "endColumn": 54,
+                        "endOffset": 3023
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2450,
+                    "endColumn": 63,
+                    "endOffset": 2509
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 4,
+                        "startOffset": 3028,
+                        "endColumn": 63,
+                        "endOffset": 3087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 2514,
+                    "endColumn": 61,
+                    "endOffset": 2571
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 4,
+                        "startOffset": 3092,
+                        "endColumn": 61,
+                        "endOffset": 3149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 2576,
+                    "endColumn": 42,
+                    "endOffset": 2614
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 3154,
+                        "endColumn": 42,
+                        "endOffset": 3192
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 2619,
+                    "endColumn": 53,
+                    "endOffset": 2668
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 4,
+                        "startOffset": 3197,
+                        "endColumn": 53,
+                        "endOffset": 3246
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 2673,
+                    "endColumn": 54,
+                    "endOffset": 2723
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 4,
+                        "startOffset": 3251,
+                        "endColumn": 54,
+                        "endOffset": 3301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 2728,
+                    "endColumn": 44,
+                    "endOffset": 2768
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 3306,
+                        "endColumn": 44,
+                        "endOffset": 3346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 2773,
+                    "endColumn": 90,
+                    "endOffset": 2859
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 3351,
+                        "endColumn": 90,
+                        "endOffset": 3437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 2864,
+                    "endColumn": 144,
+                    "endOffset": 3004
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 4,
+                        "startOffset": 3442,
+                        "endColumn": 144,
+                        "endOffset": 3582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3009,
+                    "endColumn": 54,
+                    "endOffset": 3059
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3587,
+                        "endColumn": 54,
+                        "endOffset": 3637
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3064,
+                    "endColumn": 53,
+                    "endOffset": 3113
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 3642,
+                        "endColumn": 53,
+                        "endOffset": 3691
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3118,
+                    "endColumn": 57,
+                    "endOffset": 3171
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3696,
+                        "endColumn": 57,
+                        "endOffset": 3749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 3176,
+                    "endColumn": 105,
+                    "endOffset": 3277
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 3754,
+                        "endColumn": 105,
+                        "endOffset": 3855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 3282,
+                    "endColumn": 49,
+                    "endOffset": 3327
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 4,
+                        "startOffset": 3860,
+                        "endColumn": 49,
+                        "endOffset": 3905
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 3332,
+                    "endColumn": 49,
+                    "endOffset": 3377
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 4,
+                        "startOffset": 3910,
+                        "endColumn": 49,
+                        "endOffset": 3955
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 3382,
+                    "endColumn": 117,
+                    "endOffset": 3495
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 3960,
+                        "endColumn": 117,
+                        "endOffset": 4073
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 3500,
+                    "endColumn": 42,
+                    "endOffset": 3538
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 4078,
+                        "endColumn": 42,
+                        "endOffset": 4116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 3543,
+                    "endColumn": 51,
+                    "endOffset": 3590
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 4121,
+                        "endColumn": 51,
+                        "endOffset": 4168
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3595,
+                    "endColumn": 53,
+                    "endOffset": 3644
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 4173,
+                        "endColumn": 53,
+                        "endOffset": 4222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3649,
+                    "endColumn": 136,
+                    "endOffset": 3781
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 4227,
+                        "endColumn": 136,
+                        "endOffset": 4359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 3786,
+                    "endColumn": 62,
+                    "endOffset": 3844
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 74,
+                        "startColumn": 4,
+                        "startOffset": 4364,
+                        "endColumn": 62,
+                        "endOffset": 4422
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 3849,
+                    "endColumn": 55,
+                    "endOffset": 3900
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 4427,
+                        "endColumn": 55,
+                        "endOffset": 4478
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 3905,
+                    "endColumn": 98,
+                    "endOffset": 3999
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 76,
+                        "startColumn": 4,
+                        "startOffset": 4483,
+                        "endColumn": 98,
+                        "endOffset": 4577
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 4004,
+                    "endColumn": 91,
+                    "endOffset": 4091
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 4582,
+                        "endColumn": 91,
+                        "endOffset": 4669
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 4096,
+                    "endColumn": 74,
+                    "endOffset": 4166
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 4,
+                        "startOffset": 4674,
+                        "endColumn": 74,
+                        "endOffset": 4744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 4171,
+                    "endColumn": 47,
+                    "endOffset": 4214
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 4749,
+                        "endColumn": 47,
+                        "endOffset": 4792
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 4219,
+                    "endColumn": 54,
+                    "endOffset": 4269
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 4797,
+                        "endColumn": 54,
+                        "endOffset": 4847
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 4274,
+                    "endColumn": 72,
+                    "endOffset": 4342
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 4852,
+                        "endColumn": 72,
+                        "endOffset": 4920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 4347,
+                    "endColumn": 81,
+                    "endOffset": 4424
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 82,
+                        "startColumn": 4,
+                        "startOffset": 4925,
+                        "endColumn": 81,
+                        "endOffset": 5002
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 4429,
+                    "endColumn": 160,
+                    "endOffset": 4585
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 83,
+                        "startColumn": 4,
+                        "startOffset": 5007,
+                        "endColumn": 160,
+                        "endOffset": 5163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 4590,
+                    "endColumn": 76,
+                    "endOffset": 4662
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 5168,
+                        "endColumn": 76,
+                        "endOffset": 5240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 4667,
+                    "endColumn": 55,
+                    "endOffset": 4718
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 4,
+                        "startOffset": 5245,
+                        "endColumn": 55,
+                        "endOffset": 5296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 4723,
+                    "endColumn": 84,
+                    "endOffset": 4803
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 4,
+                        "startOffset": 5301,
+                        "endColumn": 84,
+                        "endOffset": 5381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 4808,
+                    "endColumn": 91,
+                    "endOffset": 4895
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 5386,
+                        "endColumn": 91,
+                        "endOffset": 5473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 4900,
+                    "endColumn": 82,
+                    "endOffset": 4978
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 4,
+                        "startOffset": 5478,
+                        "endColumn": 82,
+                        "endOffset": 5556
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 4983,
+                    "endColumn": 91,
+                    "endOffset": 5070
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 4,
+                        "startOffset": 5561,
+                        "endColumn": 91,
+                        "endOffset": 5648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 5075,
+                    "endColumn": 93,
+                    "endOffset": 5164
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 5653,
+                        "endColumn": 93,
+                        "endOffset": 5742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5169,
+                    "endColumn": 65,
+                    "endOffset": 5230
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 91,
+                        "startColumn": 4,
+                        "startOffset": 5747,
+                        "endColumn": 65,
+                        "endOffset": 5808
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5235,
+                    "endColumn": 86,
+                    "endOffset": 5317
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 92,
+                        "startColumn": 4,
+                        "startOffset": 5813,
+                        "endColumn": 86,
+                        "endOffset": 5895
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5322,
+                    "endColumn": 136,
+                    "endOffset": 5454
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 5900,
+                        "endColumn": 136,
+                        "endOffset": 6032
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 5459,
+                    "endColumn": 87,
+                    "endOffset": 5542
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 4,
+                        "startOffset": 6037,
+                        "endColumn": 87,
+                        "endOffset": 6120
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 5547,
+                    "endColumn": 80,
+                    "endOffset": 5623
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 4,
+                        "startOffset": 6125,
+                        "endColumn": 80,
+                        "endOffset": 6201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 5628,
+                    "endColumn": 74,
+                    "endOffset": 5698
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 6206,
+                        "endColumn": 74,
+                        "endOffset": 6276
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 83,
+                    "startColumn": 4,
+                    "startOffset": 5703,
+                    "endColumn": 64,
+                    "endOffset": 5763
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 97,
+                        "startColumn": 4,
+                        "startOffset": 6281,
+                        "endColumn": 64,
+                        "endOffset": 6341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 5768,
+                    "endColumn": 75,
+                    "endOffset": 5839
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 4,
+                        "startOffset": 6346,
+                        "endColumn": 75,
+                        "endOffset": 6417
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 5844,
+                    "endColumn": 70,
+                    "endOffset": 5910
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 99,
+                        "startColumn": 4,
+                        "startOffset": 6422,
+                        "endColumn": 70,
+                        "endOffset": 6488
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 5915,
+                    "endColumn": 64,
+                    "endOffset": 5975
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 100,
+                        "startColumn": 4,
+                        "startOffset": 6493,
+                        "endColumn": 64,
+                        "endOffset": 6553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 5980,
+                    "endColumn": 109,
+                    "endOffset": 6085
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 101,
+                        "startColumn": 4,
+                        "startOffset": 6558,
+                        "endColumn": 109,
+                        "endOffset": 6663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 6090,
+                    "endColumn": 95,
+                    "endOffset": 6181
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 102,
+                        "startColumn": 4,
+                        "startOffset": 6668,
+                        "endColumn": 95,
+                        "endOffset": 6759
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 6186,
+                    "endColumn": 116,
+                    "endOffset": 6298
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 103,
+                        "startColumn": 4,
+                        "startOffset": 6764,
+                        "endColumn": 116,
+                        "endOffset": 6876
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 6303,
+                    "endColumn": 97,
+                    "endOffset": 6396
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 104,
+                        "startColumn": 4,
+                        "startOffset": 6881,
+                        "endColumn": 97,
+                        "endOffset": 6974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 6401,
+                    "endColumn": 81,
+                    "endOffset": 6478
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 105,
+                        "startColumn": 4,
+                        "startOffset": 6979,
+                        "endColumn": 81,
+                        "endOffset": 7056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 6483,
+                    "endColumn": 76,
+                    "endOffset": 6555
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 106,
+                        "startColumn": 4,
+                        "startOffset": 7061,
+                        "endColumn": 76,
+                        "endOffset": 7133
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 6560,
+                    "endColumn": 68,
+                    "endOffset": 6624
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 107,
+                        "startColumn": 4,
+                        "startOffset": 7138,
+                        "endColumn": 68,
+                        "endOffset": 7202
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 6629,
+                    "endColumn": 59,
+                    "endOffset": 6684
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 108,
+                        "startColumn": 4,
+                        "startOffset": 7207,
+                        "endColumn": 59,
+                        "endOffset": 7262
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 95,
+                    "startColumn": 4,
+                    "startOffset": 6689,
+                    "endColumn": 58,
+                    "endOffset": 6743
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 109,
+                        "startColumn": 4,
+                        "startOffset": 7267,
+                        "endColumn": 58,
+                        "endOffset": 7321
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 6748,
+                    "endColumn": 184,
+                    "endOffset": 6928
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 110,
+                        "startColumn": 4,
+                        "startOffset": 7326,
+                        "endColumn": 184,
+                        "endOffset": 7506
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 6933,
+                    "endColumn": 75,
+                    "endOffset": 7004
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 111,
+                        "startColumn": 4,
+                        "startOffset": 7511,
+                        "endColumn": 75,
+                        "endOffset": 7582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 7009,
+                    "endColumn": 75,
+                    "endOffset": 7080
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 112,
+                        "startColumn": 4,
+                        "startOffset": 7587,
+                        "endColumn": 75,
+                        "endOffset": 7658
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 7085,
+                    "endColumn": 88,
+                    "endOffset": 7169
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 113,
+                        "startColumn": 4,
+                        "startOffset": 7663,
+                        "endColumn": 88,
+                        "endOffset": 7747
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 7174,
+                    "endColumn": 80,
+                    "endOffset": 7250
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 114,
+                        "startColumn": 4,
+                        "startOffset": 7752,
+                        "endColumn": 80,
+                        "endOffset": 7828
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 7255,
+                    "endColumn": 145,
+                    "endOffset": 7396
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 115,
+                        "startColumn": 4,
+                        "startOffset": 7833,
+                        "endColumn": 145,
+                        "endOffset": 7974
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 7401,
+                    "endColumn": 74,
+                    "endOffset": 7471
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 116,
+                        "startColumn": 4,
+                        "startOffset": 7979,
+                        "endColumn": 74,
+                        "endOffset": 8049
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 7476,
+                    "endColumn": 57,
+                    "endOffset": 7529
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 117,
+                        "startColumn": 4,
+                        "startOffset": 8054,
+                        "endColumn": 57,
+                        "endOffset": 8107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 7534,
+                    "endColumn": 82,
+                    "endOffset": 7612
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 118,
+                        "startColumn": 4,
+                        "startOffset": 8112,
+                        "endColumn": 82,
+                        "endOffset": 8190
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 7617,
+                    "endColumn": 62,
+                    "endOffset": 7675
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 119,
+                        "startColumn": 4,
+                        "startOffset": 8195,
+                        "endColumn": 62,
+                        "endOffset": 8253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 7680,
+                    "endColumn": 130,
+                    "endOffset": 7806
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 120,
+                        "startColumn": 4,
+                        "startOffset": 8258,
+                        "endColumn": 130,
+                        "endOffset": 8384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 7811,
+                    "endColumn": 86,
+                    "endOffset": 7893
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 121,
+                        "startColumn": 4,
+                        "startOffset": 8389,
+                        "endColumn": 86,
+                        "endOffset": 8471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 7898,
+                    "endColumn": 81,
+                    "endOffset": 7975
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 122,
+                        "startColumn": 4,
+                        "startOffset": 8476,
+                        "endColumn": 81,
+                        "endOffset": 8553
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 7980,
+                    "endColumn": 99,
+                    "endOffset": 8075
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 123,
+                        "startColumn": 4,
+                        "startOffset": 8558,
+                        "endColumn": 99,
+                        "endOffset": 8653
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 8080,
+                    "endColumn": 69,
+                    "endOffset": 8145
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 124,
+                        "startColumn": 4,
+                        "startOffset": 8658,
+                        "endColumn": 69,
+                        "endOffset": 8723
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 8150,
+                    "endColumn": 127,
+                    "endOffset": 8273
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 125,
+                        "startColumn": 4,
+                        "startOffset": 8728,
+                        "endColumn": 127,
+                        "endOffset": 8851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 8278,
+                    "endColumn": 82,
+                    "endOffset": 8356
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 126,
+                        "startColumn": 4,
+                        "startOffset": 8856,
+                        "endColumn": 82,
+                        "endOffset": 8934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 8361,
+                    "endColumn": 61,
+                    "endOffset": 8418
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 127,
+                        "startColumn": 4,
+                        "startOffset": 8939,
+                        "endColumn": 61,
+                        "endOffset": 8996
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 8423,
+                    "endColumn": 74,
+                    "endOffset": 8493
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 128,
+                        "startColumn": 4,
+                        "startOffset": 9001,
+                        "endColumn": 74,
+                        "endOffset": 9071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 8498,
+                    "endColumn": 70,
+                    "endOffset": 8564
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 129,
+                        "startColumn": 4,
+                        "startOffset": 9076,
+                        "endColumn": 70,
+                        "endOffset": 9142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 8569,
+                    "endColumn": 69,
+                    "endOffset": 8634
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 130,
+                        "startColumn": 4,
+                        "startOffset": 9147,
+                        "endColumn": 69,
+                        "endOffset": 9212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 8639,
+                    "endColumn": 72,
+                    "endOffset": 8707
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 131,
+                        "startColumn": 4,
+                        "startOffset": 9217,
+                        "endColumn": 72,
+                        "endOffset": 9285
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 118,
+                    "startColumn": 4,
+                    "startOffset": 8712,
+                    "endColumn": 53,
+                    "endOffset": 8761
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 132,
+                        "startColumn": 4,
+                        "startOffset": 9290,
+                        "endColumn": 53,
+                        "endOffset": 9339
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 119,
+                    "startColumn": 4,
+                    "startOffset": 8766,
+                    "endColumn": 59,
+                    "endOffset": 8821
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 133,
+                        "startColumn": 4,
+                        "startOffset": 9344,
+                        "endColumn": 59,
+                        "endOffset": 9399
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 120,
+                    "startColumn": 4,
+                    "startOffset": 8826,
+                    "endColumn": 57,
+                    "endOffset": 8879
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 134,
+                        "startColumn": 4,
+                        "startOffset": 9404,
+                        "endColumn": 57,
+                        "endOffset": 9457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 121,
+                    "startColumn": 4,
+                    "startOffset": 8884,
+                    "endColumn": 62,
+                    "endOffset": 8942
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 135,
+                        "startColumn": 4,
+                        "startOffset": 9462,
+                        "endColumn": 62,
+                        "endOffset": 9520
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 122,
+                    "startColumn": 4,
+                    "startOffset": 8947,
+                    "endColumn": 61,
+                    "endOffset": 9004
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 136,
+                        "startColumn": 4,
+                        "startOffset": 9525,
+                        "endColumn": 61,
+                        "endOffset": 9582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 123,
+                    "startColumn": 4,
+                    "startOffset": 9009,
+                    "endColumn": 51,
+                    "endOffset": 9056
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 137,
+                        "startColumn": 4,
+                        "startOffset": 9587,
+                        "endColumn": 51,
+                        "endOffset": 9634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 124,
+                    "startColumn": 4,
+                    "startOffset": 9061,
+                    "endColumn": 66,
+                    "endOffset": 9123
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 138,
+                        "startColumn": 4,
+                        "startOffset": 9639,
+                        "endColumn": 66,
+                        "endOffset": 9701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 125,
+                    "startColumn": 4,
+                    "startOffset": 9128,
+                    "endColumn": 60,
+                    "endOffset": 9184
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 139,
+                        "startColumn": 4,
+                        "startOffset": 9706,
+                        "endColumn": 60,
+                        "endOffset": 9762
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 126,
+                    "startColumn": 4,
+                    "startOffset": 9189,
+                    "endColumn": 87,
+                    "endOffset": 9272
+                },
+                "from": {
+                    "file": "D:\\workspace\\zxingDemo\\app\\src\\main\\res\\values-nl\\strings.xml",
+                    "position": {
+                        "startLine": 140,
+                        "startColumn": 4,
+                        "startOffset": 9767,
+                        "endColumn": 87,
+                        "endOffset": 9850
+                    }
+                }
+            }
+        ]
+    }
+]
