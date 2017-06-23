@@ -1,2 +1,2 @@
 # zxingDemo
-this is zxing demo
+a zxing demo
