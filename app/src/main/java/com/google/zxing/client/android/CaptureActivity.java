@@ -27,6 +27,7 @@ import com.google.zxing.client.android.result.ResultButtonListener;
 import com.google.zxing.client.android.result.ResultHandler;
 import com.google.zxing.client.android.result.ResultHandlerFactory;
 
+import android.Manifest;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.Context;
@@ -43,6 +44,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
 import android.preference.PreferenceManager;
+import android.support.annotation.NonNull;
 import android.util.Log;
 import android.util.TypedValue;
 import android.view.KeyEvent;
@@ -62,7 +64,10 @@ import java.io.IOException;
 import java.text.DateFormat;
 import java.util.Collection;
 import java.util.EnumSet;
+import java.util.List;
 import java.util.Map;
+
+import pub.devrel.easypermissions.EasyPermissions;
 
 import static android.content.ContentValues.TAG;
 
@@ -74,7 +79,7 @@ import static android.content.ContentValues.TAG;
  * @author dswitkin@google.com (Daniel Switkin)
  * @author Sean Owen
  */
-public final class CaptureActivity extends Activity implements SurfaceHolder.Callback {
+public final class CaptureActivity extends Activity implements SurfaceHolder.Callback, EasyPermissions.PermissionCallbacks {
 
     private static final String TAG = CaptureActivity.class.getSimpleName();
 
@@ -380,8 +385,14 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
             Log.e(TAG, "*** WARNING *** surfaceCreated() gave us a null surface!");
         }
         if (!hasSurface) {
-            hasSurface = true;
-            initCamera(holder);
+            if (EasyPermissions.hasPermissions(this, Manifest.permission.CAMERA)) {
+                hasSurface = true;
+                initCamera(holder);
+            } else {
+                hasSurface = false;
+                int RC_CAMERA = 1008611;
+                EasyPermissions.requestPermissions(this, "扫码功能需要摄像头权限哦~", RC_CAMERA, Manifest.permission.CAMERA);
+            }
         }
     }
 
@@ -715,6 +726,23 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
 
     public void drawViewfinder() {
         viewfinderView.drawViewfinder();
+    }
+
+    @Override
+    public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+        EasyPermissions.onRequestPermissionsResult(requestCode,permissions, grantResults);
+    }
+
+    @Override
+    public void onPermissionsGranted(int requestCode, List<String> perms) {
+        Toast.makeText(this,"权限请求成功！",Toast.LENGTH_SHORT).show();
+        hasSurface = true;
+    }
+
+    @Override
+    public void onPermissionsDenied(int requestCode, List<String> perms) {
+        EasyPermissions.permissionPermanentlyDenied(this, "你拒绝了权限，那一边完蛋去吧！");
     }
 
     // add mine
