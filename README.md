@@ -1,0 +1,2 @@
+# zxingDemo
+a zxing demo
