@@ -51,7 +51,7 @@ final class PreviewCallback implements Camera.PreviewCallback {
             // mine
             Point screenResolution = configManager.getScreenResolution();
             Message message;
-            if (screenResolution.x < screenResolution.y){
+            if (screenResolution.x < screenResolution.y) {
                 // portrait
                 message = thePreviewHandler.obtainMessage(previewMessage, cameraResolution.y, cameraResolution.x, data);
             } else {

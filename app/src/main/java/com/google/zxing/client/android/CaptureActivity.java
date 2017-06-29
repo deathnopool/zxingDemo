@@ -535,12 +535,12 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
     @Override
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
         super.onRequestPermissionsResult(requestCode, permissions, grantResults);
-        EasyPermissions.onRequestPermissionsResult(requestCode,permissions, grantResults);
+        EasyPermissions.onRequestPermissionsResult(requestCode, permissions, grantResults);
     }
 
     @Override
     public void onPermissionsGranted(int requestCode, List<String> perms) {
-        Toast.makeText(this,"权限请求成功！",Toast.LENGTH_SHORT).show();
+        Toast.makeText(this, "权限请求成功！", Toast.LENGTH_SHORT).show();
         hasSurface = true;
     }
 
@@ -581,7 +581,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
             } else {
                 orientation = -1;
             }
-            if ((orientation == 90  && lastOrientation == 270) || (orientation == 270  && lastOrientation == 90)) {
+            if ((orientation == 90 && lastOrientation == 270) || (orientation == 270 && lastOrientation == 90)) {
                 Log.i(TAG, "orientation:" + orientation + "lastOrientation:" + lastOrientation);
                 Intent intent = getIntent();
                 finish();
