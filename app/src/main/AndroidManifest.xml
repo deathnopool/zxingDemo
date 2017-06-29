@@ -115,10 +115,6 @@
                     android:path="/" />
             </intent-filter>
         </activity>
-        <activity
-            android:name=".PreferencesActivity"
-            android:label="@string/preferences_name"
-            android:stateNotNeeded="true" />
     </application>
 
 </manifest>

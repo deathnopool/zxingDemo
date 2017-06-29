@@ -39,7 +39,6 @@ import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Canvas;
 import android.graphics.Paint;
-import android.net.Uri;
 import android.os.Bundle;
 import android.os.Handler;
 import android.os.Message;
@@ -68,8 +67,6 @@ import java.util.List;
 import java.util.Map;
 
 import pub.devrel.easypermissions.EasyPermissions;
-
-import static android.content.ContentValues.TAG;
 
 /**
  * This activity opens the camera and does the actual scanning on a background thread. It draws a
@@ -111,6 +108,8 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
     private AmbientLightManager ambientLightManager;
     private MyOrientationDetector myOrientationDetector;
 
+    private static boolean BULK_MODE = false; // 批量保存
+
     ViewfinderView getViewfinderView() {
         return viewfinderView;
     }
@@ -136,7 +135,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
         beepManager = new BeepManager(this);
         ambientLightManager = new AmbientLightManager(this);
 
-        PreferenceManager.setDefaultValues(this, R.xml.preferences, false);
+        //PreferenceManager.setDefaultValues(this, R.xml.preferences, false);
 
         // add mine
         myOrientationDetector = new MyOrientationDetector(this);
@@ -163,14 +162,15 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
         handler = null;
         lastResult = null;
 
-        SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
+        //SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
 
-        if (prefs.getBoolean(PreferencesActivity.KEY_DISABLE_AUTO_ORIENTATION, true)) {
+        /*if (prefs.getBoolean(PreferencesActivity.KEY_DISABLE_AUTO_ORIENTATION, true)) {
             setRequestedOrientation(getCurrentOrientation());
         } else {
             setRequestedOrientation(ActivityInfo.SCREEN_ORIENTATION_SENSOR);
             myOrientationDetector.enable();
-        }
+        }*/
+        setRequestedOrientation(getCurrentOrientation());
 
         resetStatusView();
 
@@ -181,8 +181,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
 
         Intent intent = getIntent();
 
-        copyToClipboard = prefs.getBoolean(PreferencesActivity.KEY_COPY_TO_CLIPBOARD, true)
-                && (intent == null || intent.getBooleanExtra(Intents.Scan.SAVE_HISTORY, true));
+        copyToClipboard = (intent == null || intent.getBooleanExtra(Intents.Scan.SAVE_HISTORY, true));
 
         source = IntentSource.NONE;
         decodeFormats = null;
@@ -340,8 +339,8 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
         }
 
 
-        SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
-        if (fromLiveScan && prefs.getBoolean(PreferencesActivity.KEY_BULK_MODE, false)) {
+        //SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
+        if (fromLiveScan && BULK_MODE) {
             Toast.makeText(getApplicationContext(),
                     getResources().getString(R.string.msg_bulk_mode_scanned) + " (" + rawResult.getText() + ')',
                     Toast.LENGTH_SHORT).show();
@@ -403,7 +402,7 @@ public final class CaptureActivity extends Activity implements SurfaceHolder.Cal
 
         SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(this);
 
-        if (resultHandler.getDefaultButtonID() != null && prefs.getBoolean(PreferencesActivity.KEY_AUTO_OPEN_WEB, false)) {
+        if (resultHandler.getDefaultButtonID() != null && false) {
             resultHandler.handleButtonPress(resultHandler.getDefaultButtonID());
             return;
         }

@@ -18,9 +18,7 @@ package com.google.zxing.client.android.result;
 
 import com.google.zxing.Result;
 import com.google.zxing.client.android.Contents;
-import com.google.zxing.client.android.Intents;
 import com.google.zxing.client.android.LocaleManager;
-import com.google.zxing.client.android.PreferencesActivity;
 import com.google.zxing.client.android.R;
 import com.google.zxing.client.result.ParsedResult;
 import com.google.zxing.client.result.ParsedResultType;
@@ -478,8 +476,7 @@ public abstract class ResultHandler {
 
     private String parseCustomSearchURL() {
         SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(activity);
-        String customProductSearch = prefs.getString(PreferencesActivity.KEY_CUSTOM_PRODUCT_SEARCH,
-                null);
+        String customProductSearch = null;
         if (customProductSearch != null && customProductSearch.trim().isEmpty()) {
             return null;
         }

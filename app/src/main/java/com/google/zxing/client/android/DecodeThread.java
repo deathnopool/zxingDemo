@@ -65,22 +65,22 @@ final class DecodeThread extends Thread {
         if (decodeFormats == null || decodeFormats.isEmpty()) {
             SharedPreferences prefs = PreferenceManager.getDefaultSharedPreferences(activity);
             decodeFormats = EnumSet.noneOf(BarcodeFormat.class);
-            if (prefs.getBoolean(PreferencesActivity.KEY_DECODE_1D_PRODUCT, true)) {
+            if (true) {
                 decodeFormats.addAll(DecodeFormatManager.PRODUCT_FORMATS);
             }
-            if (prefs.getBoolean(PreferencesActivity.KEY_DECODE_1D_INDUSTRIAL, true)) {
+            if (true) {
                 decodeFormats.addAll(DecodeFormatManager.INDUSTRIAL_FORMATS);
             }
-            if (prefs.getBoolean(PreferencesActivity.KEY_DECODE_QR, true)) {
+            if (true) {
                 decodeFormats.addAll(DecodeFormatManager.QR_CODE_FORMATS);
             }
-            if (prefs.getBoolean(PreferencesActivity.KEY_DECODE_DATA_MATRIX, true)) {
+            if (true) {
                 decodeFormats.addAll(DecodeFormatManager.DATA_MATRIX_FORMATS);
             }
-            if (prefs.getBoolean(PreferencesActivity.KEY_DECODE_AZTEC, false)) {
+            if (false) {
                 decodeFormats.addAll(DecodeFormatManager.AZTEC_FORMATS);
             }
-            if (prefs.getBoolean(PreferencesActivity.KEY_DECODE_PDF417, false)) {
+            if (false) {
                 decodeFormats.addAll(DecodeFormatManager.PDF417_FORMATS);
             }
         }
